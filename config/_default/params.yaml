@@ -20,8 +20,8 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+#email: test@example.org
+#phone: 888 888 88 88
 address:
   street: 100 Normal Rd.
   city: DeKalb
