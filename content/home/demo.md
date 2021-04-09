@@ -32,9 +32,6 @@ DdiLab co-directors Joseph Insley (School of Art and Design) and Michael Papka (
 
 <!--EndFragment-->
 
-* 👉 Instagram: 
-* 🐦 Twitter: [](https://twitter.com/wowchemy)
-
 ## Hardware Sponsorships
 
 [](https://github.com/wowchemy/starter-academic/tree/master/exampleSite)
